@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606100022692",
+    "project_id": "smartinvoice-ea321",
+    "storage_bucket": "smartinvoice-ea321.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606100022692:android:07b988eaf1f210790c0d31",
+        "android_client_info": {
+          "package_name": "com.example.smart_invoice_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606100022692-86o7t5np9avpie6ftdf81qbbfue98r5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_invoice_pro",
+            "certificate_hash": "ae007409d1024d98de79280fdd494ddfb45a377d"
+          }
+        },
+        {
+          "client_id": "606100022692-fpq7tful2uslvu91uvj4n37souddtnn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByfkQMRCbVuNR3l-Jl2IitCcFZy9r2eBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606100022692-1hk85qdmivha2oud9h6qhg6q2nnumor2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
